@@ -13,10 +13,11 @@
   },
   "dependencies": {
     "@nuxt/eslint": "^0.6.0",
-    "nuxt": "^3.13.2",
-    "vue": "latest",
-    "vue-router": "latest",
+    "@nuxtjs/tailwindcss": "^6.12.2",
     "eslint": "^9.13.0",
-    "typescript": "^5.6.3"
+    "nuxt": "^3.13.2",
+    "typescript": "^5.6.3",
+    "vue": "latest",
+    "vue-router": "latest"
   }
 }
